@@ -12,22 +12,20 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+    <p>Type Theme by EZApps.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    <a href="http://apps.easyapple.net">EZApps</a> by <a href="http://i.easyapple.net">Jack.Z</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "EasyApple/type-theme"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -40,10 +38,12 @@ theme:
   twitter: "twitter"
   wordpress:
   youtube:
+  weibo: "weibo"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
+  duoshuo_shortname: "duoshuo"
   katex: true # Enable if using math markup
 
   # Localization strings
@@ -59,7 +59,7 @@ theme:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
   
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
