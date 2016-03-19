@@ -67,10 +67,7 @@ paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-<<<<<<< HEAD
 # highlighter: pygments
-=======
->>>>>>> rohanchandra/master
 highlighter: rouge
 sass:
   sass_dir: _sass
